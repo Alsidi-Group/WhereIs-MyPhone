@@ -1,7 +1,7 @@
 {
-  "latestVersion": "1.4.3",
-  "versionCode": 10,
-  "apkUrl": "https://github.com/Alsidi-Group/WhereIs-MyPhone/releases/latest/download/WhereIsMyPhone-v1.4.3.apk",
+  "latestVersion": "1.4.4",
+  "versionCode": 11,
+  "apkUrl": "https://github.com/Alsidi-Group/WhereIs-MyPhone/releases/latest/download/WhereIsMyPhone-v1.4.4.apk",
   "required": true,
   "repoUrl": "https://github.com/Alsidi-Group/WhereIs-MyPhone",
   "updateCheckUrl": "https://raw.githubusercontent.com/Alsidi-Group/WhereIs-MyPhone/main/Update.json",
@@ -20,10 +20,14 @@
       "زر «آخر موقع على الخرائط»: يفتح آخر موقع مُسجّل أثناء المكالمات على خرائط Google بلمسة واحدة"
     ],
     "fixes": [
-      "إصلاح رابط فحص التحديثات وربطه بالمستودع الرسمي الجديد على GitHub (Alsidi-Group/WhereIs-MyPhone) — الرابط القديم كان متوقفًا عن العمل"
+      "إصلاح عطل ميزة «العودة إلى الصامت بعد المكالمة» — لم تكن تعمل لأن استعادة مستويات الصوت كانت تُخرج الهاتف من الصامت بعد ضبطه",
+      "الترتيب الجديد للاستعادة: المستويات أولاً والوضع الصامت/الاهتزاز أخيراً — الكلمة الأخيرة للوضع السابق دائماً",
+      "صمّام أمان: إن ضاع بث انتهاء المكالمة تُجرى الاستعادة الكاملة تلقائياً بعد 3 دقائق من خدمة المراقبة",
+      "إعادة تأكيد مؤجلة بعد 5 ثوانٍ من المكالمة: إن خرج أي شيء الهاتف من الصامت يُعاد فوراً",
+      "حفظ فلتر عدم الإزعاج الأصلي من الضياع عند البثّات المزدوجة (شريحتان) فيُستعاد كما كان بعد المكالمة"
     ],
     "others": [
-      "ترقية الإصدار إلى 1.4.3 (code 10) — استمراراً للتسلسل الرقمي: 1.4.0 → 1.4.1 → 1.4.2 → … → 1.4.9 ثم 1.5.0"
+      "ترقية الإصدار إلى 1.4.4 (code 11) — استمراراً للتسلسل الرقمي: 1.4.0 → 1.4.1 → … → 1.4.9 ثم 1.5.0"
     ],
     "security": []
   }
