@@ -1,13 +1,14 @@
 {
-  "latestVersion": "1.4.4",
-  "versionCode": 11,
-  "apkUrl": "https://github.com/Alsidi-Group/WhereIs-MyPhone/releases/latest/download/WhereIsMyPhone-v1.4.4.apk",
+  "latestVersion": "1.4.5",
+  "versionCode": 12,
+  "apkUrl": "https://github.com/Alsidi-Group/WhereIs-MyPhone/releases/latest/download/WhereIsMyPhone-v1.4.5.apk",
   "required": true,
   "repoUrl": "https://github.com/Alsidi-Group/WhereIs-MyPhone",
   "updateCheckUrl": "https://raw.githubusercontent.com/Alsidi-Group/WhereIs-MyPhone/main/Update.json",
   "updateFilePage": "https://github.com/Alsidi-Group/WhereIs-MyPhone/blob/main/Update.json",
   "changelog": {
     "additions": [
+      "شاشة بداية متحركة عند تشغيل التطبيق: الشعار يطفو ويدور حول الشاشة ثم يتوجه ويثبت في المنتصف ويتوازن، وتحته تُكتب «أين هاتفي | WhereIsMyPhone» بألة الكاتبة مع مؤشر وامض — ولمسة واحدة تُخطّيها",
       "تغطية كاملة للوضع النهاري: الخلفية والواجهة كلها تتحول للنهاري مع خطوط داكنة واضحة لا تتأثر بالأبيض",
       "خلفيات متنوعة لأرضية الساعة: هالة، سماء ليلية بنجوم وهلال، غروب، أفق نهاري، حلقات، أشعة — والعقارب تتلون تلقائياً لتبقى واضحة",
       "خلفيات أرضية زخرفية للتطبيق: 6 أنماط جديدة (نقاط، شبكة، خطوط مائلة، موجات، معينات، فقاعات) تتبع لون الثيم في الوضعين",
